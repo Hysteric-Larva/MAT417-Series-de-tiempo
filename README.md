@@ -6,4 +6,5 @@ En este curso se abordan tópicos de interés del estudiante de Magister y que n
 
 * [Tarea 1](https://www.overleaf.com/read/nswgxhqpttts#248838)
 * [Tarea 2](https://www.overleaf.com/read/kbkzfppjfqws#3e22e9)
-* Tarea 3 (Proximamente)
+* [Tarea 3](https://www.overleaf.com/read/drfwcswbvfzp#4eb5df)
+* [Repositorio del proyecto final - Con Marcelino Zuñiga](https://github.com/Hysteric-Larva/Proyecto-Final-Series-Temporales)
